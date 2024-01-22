@@ -80,3 +80,15 @@ body{
 .prodotto .cuore:hover{
     color: #FF0000;
 }
+
+.latob{
+    display: none;
+}
+
+.prodotto:hover .latob{
+    display: block;
+}
+
+.prodotto:hover .latoa{
+    display: none;
+}
